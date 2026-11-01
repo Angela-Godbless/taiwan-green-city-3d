@@ -1,6 +1,7 @@
 /** First living-city quest: pure state transitions shared by the game and tests. */
 (function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;root.GreenCityLife=api;})(typeof window!=='undefined'?window:globalThis,function(){
  'use strict';
+ const BUILD_VERSION='13.2-test.20261101.1';
  const GRANDMA={x:-5.35,z:2.55};
  const BASKET={x:-6.55,z:2.92};
  const HERBS={x:-4.55,z:3.28};
@@ -35,5 +36,5 @@
   else if(target.kind==='grandma'&&life.stage==='complete'){event.text='「有閒就來坐。下擺，阿嬤教你煮青草茶。」';}
   return {life,event};
  }
- return {GRANDMA,BASKET,HERBS,BRANCHES,initial,normalize,distance,objective,nearby,actionLabel,interact};
+ return {BUILD_VERSION,GRANDMA,BASKET,HERBS,BRANCHES,initial,normalize,distance,objective,nearby,actionLabel,interact};
 });
