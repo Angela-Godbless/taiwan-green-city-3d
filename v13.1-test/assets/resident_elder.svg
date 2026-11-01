@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 190" role="img" aria-label="原創城市Q版居民">
+<defs><linearGradient id="cl" x2="0" y2="1"><stop stop-color="#d8bbeb"/><stop offset="1" stop-color="#497d73"/></linearGradient></defs>
+<ellipse cx="70" cy="180" rx="45" ry="8" fill="#19422c" opacity=".2"/>
+<path d="M45 140 L45 173 Q55 182 66 172 L67 143 M77 143 L77 172 Q89 181 98 171 L98 140" stroke="#78618d" stroke-width="19" fill="none" stroke-linecap="round"/>
+<path d="M38 174 L67 174 M76 174 L108 174" stroke="#655242" stroke-width="13" stroke-linecap="round"/>
+<path d="M39 111 Q70 93 100 111 L104 153 Q70 163 36 153Z" fill="url(#cl)" stroke="#45826d" stroke-width="3"/><path d="M42 129 L100 129 L108 162 L36 162Z" fill="#ab8ad2"/><path d="M114 119 L126 173" stroke="#907453" stroke-width="6" stroke-linecap="round"/>
+<path d="M41 115 L31 153 M101 115 L110 152" stroke="#d8bbeb" stroke-width="17" stroke-linecap="round"/>
+<circle cx="31" cy="153" r="9" fill="#f2c5a5"/><circle cx="110" cy="152" r="9" fill="#f2c5a5"/>
+<ellipse cx="70" cy="67" rx="31" ry="34" fill="#f2c5a5" stroke="#d69e82" stroke-width="2"/>
+<ellipse cx="57" cy="71" rx="4" ry="5" fill="#382d36"/><ellipse cx="84" cy="71" rx="4" ry="5" fill="#382d36"/>
+<ellipse cx="49" cy="82" rx="7" ry="5" fill="#ed9b96" opacity=".65"/><ellipse cx="94" cy="82" rx="7" ry="5" fill="#ed9b96" opacity=".65"/>
+<path d="M61 89 Q71 98 81 89" fill="none" stroke="#a65e5f" stroke-width="3" stroke-linecap="round"/>
+<path d="M38 60 Q26 12 72 18 Q112 12 105 62 L99 38 Q71 49 41 37Z" fill="#e7e9e8"/><path d="M34 53 Q27 73 36 88 M106 51 Q115 73 105 90" fill="none" stroke="#e7e9e8" stroke-width="13" stroke-linecap="round"/><path d="M47 40 Q69 18 96 41" stroke="#e3e6df" stroke-width="10" stroke-linecap="round" fill="none"/>
+<!-- V11.3 hand-detailed character finish: bright expressive eyes, clothing texture, consistent shadows -->
+<g pointer-events="none">
+ <ellipse cx="56.7" cy="69.9" rx="1.55" ry="1.92" fill="#fffaf0"/>
+ <ellipse cx="83.8" cy="69.9" rx="1.55" ry="1.92" fill="#fffaf0"/>
+ <circle cx="59.5" cy="74.0" r=".83" fill="#e8d0ca"/>
+ <circle cx="86.4" cy="74.0" r=".83" fill="#e8d0ca"/>
+ <path d="M50 62 Q56 59 62 62 M78 62 Q85 59 91 62" fill="none" stroke="#785449" stroke-opacity=".63" stroke-width="1.55" stroke-linecap="round"/>
+ <path d="M48 80 Q52 82 54 81 M88 81 Q92 82 95 80" stroke="#fff2e0" stroke-opacity=".45" stroke-width="1.9" fill="none" stroke-linecap="round"/>
+ <path d="M41 173 l17 0 M77 173 l18 0" stroke="#d5bfa0" stroke-width="1.65" stroke-linecap="round" opacity=".72"/>
+</g>
+<g pointer-events="none">
+ <rect x="47" y="62" width="20" height="17" rx="7" fill="none" stroke="#7b685f" stroke-width="2.1"/>
+ <rect x="74" y="62" width="19" height="17" rx="7" fill="none" stroke="#7b685f" stroke-width="2.1"/>
+ <path d="M67 66 Q71 64 74 66" stroke="#7b685f" stroke-width="2" fill="none"/>
+ <path d="M41 67 L47 67 M93 67 L100 67" stroke="#7b685f" stroke-width="1.9"/>
+ <circle cx="70" cy="118" r="4.8" fill="#eec87d" stroke="#916c8b" stroke-width="1.8"/>
+ <path d="M44 151 Q68 155 101 151" fill="none" stroke="#f8e3f7" stroke-width="1.6" stroke-dasharray="3 3" opacity=".85"/>
+ <path d="M49 38 Q70 30 90 38" stroke="#ffffff" stroke-width="2" opacity=".6" fill="none"/>
+</g></svg>

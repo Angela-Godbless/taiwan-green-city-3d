@@ -1,0 +1,12 @@
+{
+  "version": "V13.1",
+  "build": "13.1-source.20261101.1",
+  "source": "Taiwan_Green_City_V13_1_Source_Handoff",
+  "saveKey": "taiwan-green-city-v13-grandma-1",
+  "features": [
+    "continuous canvas movement",
+    "grandma watering quest",
+    "grandma house interior",
+    "tea interaction"
+  ]
+}
