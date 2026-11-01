@@ -1,0 +1,11 @@
+{
+  "version": "13.2-test.20261101.1",
+  "sourceBranch": "codex/v13.2-test",
+  "sourceCommit": "a72032d",
+  "features": [
+    "free-player-movement",
+    "mobile-virtual-joystick",
+    "grandma-life-quest",
+    "backward-compatible-save-migration"
+  ]
+}
